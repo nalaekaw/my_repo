@@ -5,7 +5,7 @@
 ### Title
 
 ```python
-def func():
+def create_matrix():
     pass
 
 print(1)
